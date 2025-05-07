@@ -17,6 +17,11 @@
   width: auto;
 }
 
+.items {
+  color: #fff;
+  display: flex;
+  gap: 40px;
+}
 @media screen and (max-width: 640px) {
   .header {
     padding: 24px 16px 8px;
